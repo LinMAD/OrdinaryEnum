@@ -1,0 +1,25 @@
+{
+    "name": "linmad/ordinary-enum",
+    "description": "Ordinary enum type implementation for PHP",
+    "keywords": ["enum", "type", "data", "structure", "plain", "light", "ordinary"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Artjoms Nemiro"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "EnumType\\": "src/EnumType/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    }
+}
