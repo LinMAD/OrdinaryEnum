@@ -3,6 +3,7 @@
     "description": "Ordinary enum type implementation for PHP",
     "keywords": ["enum", "type", "data", "structure", "plain", "light", "ordinary"],
     "type": "library",
+    "homepage": "https://github.com/LinMAD/OrdinaryEnum/",
     "license": "MIT",
     "authors": [
         {
